@@ -1,0 +1,11 @@
+
+Notice: Trying to get property of non-object in /var/www/twitbot/twitbot.php on line 26
+Current API hits remaining: .
+
+Warning: file_get_contents(last_tweet_number.log): failed to open stream: No such file or directory in /var/www/twitbot/twitbot.php on line 29
+
+Notice: Undefined variable: config in /var/www/twitbot/twitbot.php on line 34
+
+Notice: Trying to get property of non-object in /var/www/twitbot/twitbot.php on line 34
+
+Warning: Invalid argument supplied for foreach() in /var/www/twitbot/twitbot.php on line 41
